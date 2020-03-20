@@ -1,6 +1,6 @@
 # Investigate TMDb Movies Dataset
 
-This project was completed as part of the **Udacity's Data Analyst Nanodegree** certification program. 
+This project was completed as part of the **Udacity's Data Analyst Nanodegree**  program. 
 
 ### Overview
 
