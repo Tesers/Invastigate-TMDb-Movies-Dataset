@@ -4,7 +4,7 @@ This project was completed as part of the **Udacity's Data Analyst Nanodegree** 
 
 ### Overview
 
-In this project, you will analyze a TMDb movie dataset and then communicate your findings about it. 
+In this project, you will analyze a TMDb movie dataset and then communicate my findings about it. 
 
 ### Used Technology
 
